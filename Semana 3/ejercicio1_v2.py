@@ -33,14 +33,14 @@ while continuar.lower() == "s":
 # El promedio de las calificaciones.
 # La calificación más alta.
 # La calificación más baja.
-print (calificaciones)
+# print (calificaciones)
 
-# El promedio de las calificaciones.
-promedio = sum(calificaciones) / len(calificaciones)
-print (f"El promedio: {promedio}")
-# La calificación más alta.
-calificacion_maxima = max(calificaciones)
-print (f"La calificación más alta: {calificacion_maxima}")
-# La calificación más baja.
-calificacion_minima = min(calificaciones)
-print (f"La calificación más baja: {calificacion_minima}")
+# # El promedio de las calificaciones.
+# promedio = sum(calificaciones) / len(calificaciones)
+# print (f"El promedio: {promedio}")
+# # La calificación más alta.
+# calificacion_maxima = max(calificaciones)
+# print (f"La calificación más alta: {calificacion_maxima}")
+# # La calificación más baja.
+# calificacion_minima = min(calificaciones)
+# print (f"La calificación más baja: {calificacion_minima}")
